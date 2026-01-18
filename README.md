@@ -1,6 +1,7 @@
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2cff,100:00e5ff&height=250&section=header&text=Rolando%20Aruquipa&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Programación%20|%20Tecnología%20|%20Aprendiz%20Constante&descAlignY=65" width="100%" />
+
 </p>
 
 <!-- ===== PRESENTACIÓN ===== -->
