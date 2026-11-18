@@ -27,24 +27,33 @@
 
 <!-- ==================== SOBRE MÍ ==================== -->
 
-## 👨‍💻 Sobre mí
+<h2>👨‍💻 Sobre mí</h2>
 
-```javascript
-const developer = {
-  nombre: "Rolando Aruquipa",
-  ubicacion: "Bolivia 🇧🇴",
-  especialidad: "Tecnología y Desarrollo de Software",
-  intereses: [
-    "Desarrollo Web",
-    "Backend y APIs",
-    "Bases de Datos",
-    "Redes y Sistemas",
-    "Automatización"
-  ],
-  objetivo: "Crear soluciones tecnológicas profesionales",
-  mentalidad: "Aprender, construir y mejorar"
-};
-```
+<p>
+  Soy <strong>Rolando Aruquipa</strong>, apasionado por la tecnología,
+  el desarrollo de software y la creación de soluciones digitales
+  que resuelven problemas reales.
+</p>
+
+<p>
+  Me interesa desarrollar aplicaciones modernas, seguras y eficientes,
+  combinando tecnologías frontend, backend, bases de datos e infraestructura.
+</p>
+
+<ul>
+  <li>💻 <strong>Desarrollo de software:</strong> Aplicaciones web y de escritorio.</li>
+  <li>⚙️ <strong>Backend:</strong> APIs REST, .NET y servicios.</li>
+  <li>🗄️ <strong>Bases de datos:</strong> PostgreSQL y Supabase.</li>
+  <li>🌐 <strong>Infraestructura:</strong> Redes, Linux, Docker y servidores.</li>
+  <li>🚀 <strong>Objetivo:</strong> Desarrollar soluciones tecnológicas escalables y profesionales.</li>
+</ul>
+
+<p>
+  🎯 <strong>Mi filosofía:</strong>
+  Aprender continuamente, escribir código de calidad
+  y transformar ideas en proyectos funcionales.
+</p>
+
 
 Me apasiona la tecnología, la programación y el desarrollo de soluciones que resuelvan problemas reales.
 
